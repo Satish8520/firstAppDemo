@@ -10,5 +10,5 @@ import { RouterOutlet } from '@angular/router';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'Welcome to my first demo project';
+  title = 'Welcome to my first demo project in Angular';
 }
